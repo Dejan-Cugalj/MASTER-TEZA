@@ -7,7 +7,7 @@
 #### Student: ***Dejan Čugalj (2019/430054)***
 ---
 
-##Cilj Istraživanja
+## Cilj Istraživanja master teze
 
 Pretpostavimo situaciju u kojoj je potrebno proveriti automobil pre polaska na dalji put, situaciju u kojoj se kvarovi pojavljuju ali isto tako i misteriozno nestaju, situaciju gde je rešavanje problema sa vozilom jedino moguće uvidom u podatke koji su dobijeni očitavanjem senzora, rutinska provera ispravnosti automobila (uvid u neregularnost podataka), „real-time“ monitoring stanja automobila, iznenadan dim koji se pojavljuje u izduvnim gasovima, priprema za godišnji tehnički pregled automobila itd.
 
