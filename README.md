@@ -4,5 +4,5 @@
 #### Mentori:
 #### ***Prof. dr. Marina Marjanović Jakovljević***
 #### ***Prof. dr. Miodrag Živković***
-#### Student: ***Dejan Čugalj (2019/430054***
+#### Student: ***Dejan Čugalj (2019/430054)***
 ---
