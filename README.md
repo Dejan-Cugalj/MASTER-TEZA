@@ -1,5 +1,5 @@
 # <p align="center">**"Predikcija ispravnog očitavanje senzora mase protoka vazduha motora automobila"**</p>
-### <p align="center">*MASTER TEZA*</p>
+### <p align="center">*-MASTER TEZA-*</p>
 ---
 #### Mentori:
 #### ***Prof. dr. Marina Marjanović Jakovljević***
